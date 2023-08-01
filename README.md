@@ -1,6 +1,6 @@
-# GuanYu Coin
+# TomSawyer Coin
 
-BSC / Solidity
+BEP-20 / Solidity
 
 ## Install dependency
 
@@ -9,20 +9,3 @@ npm install -g truffle
 npm install -g ganache-cli
 npm install
 ```
-
-## Run unittests
-
-Start ganache (local test server):
-```shell script
-npm run testrpc
-```
-
-Run unittests:
-```shell script
-npm run truffle:test
-```
-
-## Flatten
-
-```shell script
-npm run flatten

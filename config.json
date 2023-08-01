@@ -1,6 +1,6 @@
 {
-  "main": "./contracts/ZhaoYunCoin.sol",
-  "deploy": "./build/contracts/ZhaoYunCoin.json",
+  "main": "./contracts/TomSawyerCoin.sol",
+  "deploy": "./build/contracts/TomSawyerCoin.json",
   "framework": "truffle",
   "npmClient": "npm",
   "compilers": {
