@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-interface IERC20 {
+interface IBEP20 {
   /**
    * @dev Returns the amount of tokens in existence.
    */
@@ -23,7 +23,7 @@ interface IERC20 {
   function name() external view returns (string memory);
 
   /**
-   * @dev Returns the erc token owner.
+   * @dev Returns the bep token owner.
    */
   function getOwner() external view returns (address);
 
