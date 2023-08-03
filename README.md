@@ -1,6 +1,6 @@
 # TomSawyer Coin
 
-ERC-20 / Solidity
+BEP-20 / Solidity
 
 ## Install dependency
 
